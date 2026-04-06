@@ -40,13 +40,13 @@ All analysis was performed in **Google BigQuery** using SQL CTEs (Common Table E
 
 ## Results
 - **Biggest drop-off** : 69% of visitors leave without adding anything to cart — the product page is the weakest link
--<img width="707" height="386" alt="Screenshot 2026-04-06 at 4 04 24 PM" src="https://github.com/user-attachments/assets/0cc96d63-990a-4e1b-87de-50f81c6734c0" />
+- <img width="707" height="386" alt="Screenshot 2026-04-06 at 4 04 24 PM" src="https://github.com/user-attachments/assets/0cc96d63-990a-4e1b-87de-50f81c6734c0" />
   
 - **Email converts best** : 1 in 3 email visitors buy, vs 1 in 14 from social media
--<img width="332" height="266" alt="Screenshot 2026-04-06 at 4 04 46 PM" src="https://github.com/user-attachments/assets/068a256b-b8e5-459a-a396-b96db23d4dee" />
+- <img width="332" height="266" alt="Screenshot 2026-04-06 at 4 04 46 PM" src="https://github.com/user-attachments/assets/068a256b-b8e5-459a-a396-b96db23d4dee" />
   
 - **Organic brings the most revenue** : $37,280 (42% of total) — largely due to high volume
--<img width="331" height="272" alt="Screenshot 2026-04-06 at 4 05 00 PM" src="https://github.com/user-attachments/assets/ab084e49-e7e9-4da1-92bb-540c5ace0ffc" />
+- <img width="331" height="272" alt="Screenshot 2026-04-06 at 4 05 00 PM" src="https://github.com/user-attachments/assets/ab084e49-e7e9-4da1-92bb-540c5ace0ffc" />
 
 ---
 
